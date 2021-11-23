@@ -128,8 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.vscode/*
-
 # dataset
 UTKFace/*
 test-images/*
+
+# other
+.vscode/*
+tuner/*
+saved/*
