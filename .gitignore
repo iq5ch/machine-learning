@@ -130,9 +130,11 @@ dmypy.json
 
 # dataset
 UTKFace/*
+UTKFace_original/*
 test-images/*
 
 # other
 .vscode/*
 tuner/*
-saved/*
+saved_models_plots/*
+neural_network/*
