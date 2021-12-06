@@ -19,6 +19,7 @@ numpy==1.21.3
 opencv-python==4.5.4.58
 opencv-python-headless==4.5.4.60
 Pillow==8.4.0
+PyOpenGL==3.1.5
 pyparsing==3.0.4
 python-dateutil==2.8.2
 PyWavelets==1.2.0
